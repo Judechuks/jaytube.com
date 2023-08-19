@@ -52,3 +52,5 @@ The **HTML** was used to created the main structure of the webpage.
 
 ### MEDIAQUERIE, GRID and FLEX
  for web responsiveness.
+
+File retrieved by git cloning from remote repository (GitHub)
